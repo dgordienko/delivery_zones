@@ -19,7 +19,6 @@ points = pd.read_csv('distributor_delivery_points.csv')
 zones = pd.read_csv('distributor_delivery_zones.csv')
 points = points.drop(columns=['TERRITORY2_ID', 'TERRITORY1_ID', 'TERRITORY3_ID', 'COORDINATES_FILLING', 'CREATED_BY', 'CREATED_LOGIN', 'CREATED_DATE', 'BRANCH_ID', 'BRANCH_NAME', 'TRADE_NETWORKS_NAME'])
 zones = zones.drop(columns=['STATUS_ID', 'STATUS_NAME', 'ENTITYTYPE_ID', 'MIN_SUM_SHOP', 'MIN_SUM_CAR', 'REMOVAL_RATE', 'ROWID'])
-result = list()
 for item in zones.iterrows():
     zid = item[1]['ID']
     fname = item[1]['NAME']
