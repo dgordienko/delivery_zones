@@ -11,6 +11,9 @@
 |  Зоны доставки 005 |  Крам. Верх Конст. Село Конст. Низ Конст. Верх Изюм Дружковские села Доброполье Горняк Волновахские села низ Волновахские села дальние |  [link](https://www.google.com/maps/d/edit?mid=1bQtlMnecQgXcV5jvXwL1U7OLpJnozrtP&usp=sharing "link") |
 |Зоны доставки 006|  Волновахские села ближние Волноваха Великоновоселовские села Великоновоселовские села трасса Великоновоселовские села низ Великоновоселовские села верх Великая Новоселовка Белозерское Белицкое Бахмут | [link](https://www.google.com/maps/d/edit?mid=1vfPeCx9V5NvSWU_qgQd7s_uSDVtPMWJ8&usp=sharing "link")  |
 | Зоны доставки 007  | Бах. запад Алексеево-Дружковка Алексан-ка Авдеевка  | [link](https://www.google.com/maps/d/edit?mid=1DcQIcQZ7RVSjD8Z9poz3GwaEyXCaoUxM&usp=sharing "link")  |
+| Зоны доставки 008  | Дружковка Дружковские села | [link](https://www.google.com/maps/d/u/0/edit?mid=1Gc7jm7u8MkRpmWW6LhYuPOJ9NqKJabxH&usp=sharing "link")  |
+
+
 
 ~~~python
 
